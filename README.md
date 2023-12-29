@@ -12,4 +12,12 @@ Embark on an organized journey with the Todos Application, a meticulously crafte
 6. Receive a celebratory message upon completing everything on your list, adding a touch of motivation.
 7. Enjoy a user-friendly interface accessible to everyone, ensuring a seamless and pleasant experience.
 
+## Demo
 
+Check out the live demo https://sakethtodos.ccbp.tech/.
+
+## Technologies Used
+
+- HTML
+- CSS
+- Javascript
