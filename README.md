@@ -4,13 +4,11 @@ Embark on an organized journey with the Todos Application, a meticulously crafte
 
 ## Features
 
-1. Easily create and add new tasks to your to-do list.
-2. Check off completed tasks and witness real-time visual updates.
+1. Create Task: Users can add new tasks with priority levels (P1 to P4).
+2. Task Management: Displays the total number of tasks, completed tasks, and pending tasks.
 3. Remove tasks that are no longer needed, ensuring a clutter-free list.
 4. Save your to-do list to local storage, ensuring it's always available when you need it.
-5. Keep track of your progress with clear counts of pending and completed tasks.
-6. Receive a celebratory message upon completing everything on your list, adding a touch of motivation.
-7. Enjoy a user-friendly interface accessible to everyone, ensuring a seamless and pleasant experience.
+5. Receive a celebratory message upon completing everything on your list, adding a touch of motivation.
 
 ## Demo
 
@@ -20,4 +18,5 @@ Check out the live demo https://sakethtodos.ccbp.tech/.
 
 - HTML
 - CSS
+- Bootstrap
 - Javascript
