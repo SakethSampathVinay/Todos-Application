@@ -12,7 +12,7 @@ Embark on an organized journey with the Todos Application, a meticulously crafte
 
 ## Demo
 
-Check out the live demo https://sakethtodos.ccbp.tech/.
+Check out the live demo [https://sakethtodos.niat.tech/](https://sakethapptodos.niat.tech/).
 
 ## Technologies Used
 
